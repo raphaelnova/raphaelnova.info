@@ -1,6 +1,6 @@
-_cache
-_site
-dist
+_cache/
+raphaelnova.github.io/
+dist/
 .cabal-sandbox/
 cabal.sandbox.config
 
